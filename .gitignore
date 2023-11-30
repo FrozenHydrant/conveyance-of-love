@@ -27,4 +27,5 @@ conveyance/target/
 conveyance/.settings/
 
 *.classpath
+*.project
 
